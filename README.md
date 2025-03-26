@@ -29,7 +29,7 @@ The Task Management API is a Django REST Framework (DRF) project that allows use
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jaspreet16june/Task-Management-System.git
+    git clone https://github.com/jaspreet16june/Task-Management-App.git
     cd task-management
     ```
 2. Create and activate a virtual environment:
